@@ -1,0 +1,4 @@
+[Config]
+ADLinks = 进入我们的妈妈微博|||http://www.mama520.cn$$$关注我们的Sina微博，快快关注吧。|||http://t.sina.com.cn/MaMaWeiBo$$$关注我们的QQ微博吧！|||http://t.qq.com/MaMaWeiBo
+RejectLinks =9E8DE0D41FAACF79D1EDB0690021149F
+RejectSRC = http://127.0.0.1/software_AD/3GP/Reject.html
